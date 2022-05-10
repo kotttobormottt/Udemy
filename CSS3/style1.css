@@ -1,0 +1,25 @@
+body {
+    background: darkred;
+}
+h3 {
+    background-color: #00ff3b;
+}
+li {
+    border: 1px solid;
+    background-color: #e9ff00;
+}
+ul {
+    background-color: red;
+}
+#middle {
+    background-color: orange;
+}
+p {
+    color: white;
+}
+#second {
+    color: blue;
+}
+.yellow {
+    color: yellow;
+}

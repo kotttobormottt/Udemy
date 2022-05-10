@@ -1,16 +1,12 @@
-h1 {
-    color: red;
-    font-size: 50px;
+body {
+    background: url(https://cdn.theatlantic.com/media/img/photo/2020/05/kentucky-photos/a01_1164037780-1/original.jpg);
 }
-p {
-    color: green;
-    font-size: 30px;
-}
-div {
-    font-size: 30px;
-    color: darkblue;
 
+div {
+    background: pink;
 }
-ol {
-    margin: 6px;
+
+p {
+    border: 3px dotted blue;
+    background: yellow;
 }
